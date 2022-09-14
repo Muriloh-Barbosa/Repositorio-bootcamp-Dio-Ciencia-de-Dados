@@ -6,7 +6,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" />
 
 
-#### Jornanda do bootcamp: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line.svg" width="30" height="30"  />
+#### Jornanda do bootcamp: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line.svg" width="60" height="60"  />
 
 - Primeiro modulo: Prepare-se Para a jornada (Onboarding)
 - Segundo modulo: Python para Cientista de Dados 
