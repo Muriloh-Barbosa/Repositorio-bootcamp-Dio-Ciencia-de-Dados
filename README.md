@@ -6,10 +6,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"          />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"      />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"        />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"     />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40" />
 
 
-### Jornanda do bootcamp: 👨‍🎓 
+### Jornada do bootcamp: 👨‍🎓 
 
-##### • Primeiro modulo: Prepare-se Para a jornada (Onboarding)
-##### • Segundo modulo: Python para Cientista de Dados 
-##### • Terceiro modulo: Bancos de Dados SQL e NoSQL
-##### • Quarto modulo: Imersão Cloud Computer
-##### • Quinto e último modulo: Machine Learning
+##### • Primeiro módulo: *`Prepare-se Para a jornada (Onboarding)`*
+##### • Segundo  módulo: *`Python para Cientista de Dados`* 
+##### • Terceiro módulo: *`Bancos de Dados SQL e NoSQL`*
+##### • Quarto   módulo: *`Imersão Cloud Computer`*
+##### • Quinto e último modulo: *`Machine Learning`*
